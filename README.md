@@ -1,4 +1,5 @@
 # Step 12 — Decide Whether Meta-Analysis Is Appropriate
+[← Previous Step: Risk-of-Bias Assessment](https://github.com/adnan-mayof/Risk-of-Bias-Assessment/blob/main/README.md)
 
 Maya has completed data extraction.
 
