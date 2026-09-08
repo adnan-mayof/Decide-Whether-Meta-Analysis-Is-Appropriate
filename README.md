@@ -785,7 +785,7 @@ step-12-decide-whether-meta-analysis-is-appropriate/
 ```
 ## 🚀 Maya's Journey Continues
 
-Maya has now **completed the Decide Whether Meta-Analysis Is Appropriate*.
+Maya has now **completed the Decide Whether Meta-Analysis Is Appropriate**.
 The next challenge is to conduct the Decide Whether Meta-Analysis Is Appropriate.
 
 She is now ready to move to:
