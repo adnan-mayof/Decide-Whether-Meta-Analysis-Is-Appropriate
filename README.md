@@ -783,3 +783,13 @@ step-12-decide-whether-meta-analysis-is-appropriate/
 └── assessment/
     └── assessment.md
 ```
+## 🚀 Maya's Journey Continues
+
+Maya has now **completed the Decide Whether Meta-Analysis Is Appropriate*.
+The next challenge is to conduct the Decide Whether Meta-Analysis Is Appropriate.
+
+She is now ready to move to:
+
+### Next Step
+
+### **[Step 13 — Prepare the Data for Analysis](https://github.com/adnan-mayof/Prepare-the-Data-for-Analysis/blob/main/README.md)**
